@@ -3,12 +3,14 @@ To Do List
 A simple web application to display a to do list. Users can add new entries, mark off completed entries and delete entries when finished with them.
 
 Features
+
 Add new Entries to the list.
 Check entries off as completed.
 Delete Entries no longer needed.
 Web application will remember existing lists whenever page is refreshed.
 
 Technologies Used
+
 HTML
 CSS
 JavaScript
