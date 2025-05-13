@@ -14,6 +14,7 @@ CSS
 JavaScript
 
 How to Use
+
 Open the index.html file to view the main page.
 Type new task into the box provided and press the add button.
 Type as many new tasks as wanted or needed. 
@@ -22,6 +23,7 @@ Press the "X" box on the right to delet a task.
 Refreshing the page will keep current task list saved.
 
 Further Improvements (Optional)
+
 Add further styling, potential for themes.
 Add option for numbered lists.
 
